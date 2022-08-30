@@ -1,0 +1,4 @@
+latent_diffusion.egg-info/
+outputs/
+**/__pycache__/
+*.ckpt
